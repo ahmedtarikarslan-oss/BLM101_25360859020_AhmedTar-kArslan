@@ -1,6 +1,6 @@
 # Full Adder Simülatörü
 
-## 1.Öğrenci Bilgileri
+## 1. Öğrenci Bilgileri
 -Ad Soyad: Ahmed Tarık Arslan
 -Öğrenci Numarası: 25360859020
 -Üniversite: Bursa Teknik Üniversitesi
