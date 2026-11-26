@@ -1,3 +1,4 @@
+
 # Full Adder Simülatörü
 
 ## 1. Öğrenci Bilgileri
@@ -15,6 +16,9 @@ Sayısal Mantık ve Aritmetik Devreler
 
 ## 4. Kullanılan Teknolojiler
 -Python
+ 1.input() ve print() : Kullanıcıdan veri almak için ve sonucu görmek için kullanıldı
+ 2.AND,XOR ve OR : Mantık kapıları toplama işlemini yapmak ve girilen sayılar yanlış mı kontrol etmek için kullanıldı
+-GitHub : Proje dosyalarının ve dokümantasyonun tutulduğu platform
 
 ## 5. Kurulum ve Çalıştırma
 
@@ -23,3 +27,4 @@ Sayısal Mantık ve Aritmetik Devreler
 ## 7. Proje Dosyaları
 - src/: Python kaynak kodları
 - sunum.pdf: Proje sunumu
+- README.md : proje dokümantasyonu,öğrenci bilgileri
